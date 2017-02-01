@@ -1,0 +1,8 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service">
+  <intent-filter>
+    <action name="com.baidu.android.pushservice.action.notification.SHOW" />
+    <action name="com.baidu.android.pushservice.action.media.CLICK" />
+    <action name="com.baidu.android.pushservice.action.METHOD" />
+    <action name="com.baidu.android.pushservice.action.BIND_SYNC" />
+  </intent-filter>
+</prescription>
